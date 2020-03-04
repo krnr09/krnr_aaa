@@ -1,3 +1,3 @@
 # krnr_aaa
 test
-これはテストであります
+aaa
